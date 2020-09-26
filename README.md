@@ -1,1 +1,2 @@
-# inf253-exercises
+# INF253 Exercise
+First edit.
