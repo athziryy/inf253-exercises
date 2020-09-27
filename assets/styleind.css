@@ -1,0 +1,21 @@
+body {
+  background-color: #002603;
+  color: #FFFFFF;
+  font-family: Verdana;
+
+}
+
+p {
+  color: #FFFFFF
+  font-family: Verdana;
+}
+
+h1, h2 {
+  font-family: Arial Black;
+  color: #CFE6D1;
+}
+
+a {
+  color: #FFFFFF;
+  font-family: Verdana;
+}
