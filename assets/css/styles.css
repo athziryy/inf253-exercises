@@ -19,3 +19,8 @@ a {
   color: #FFFFFF;
   font-family: Verdana;
 }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
