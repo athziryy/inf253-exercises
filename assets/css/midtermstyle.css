@@ -1,0 +1,93 @@
+body {
+  background-color: #FFFFFF;
+  color: #c9cba3;
+  font-family: Verdana;
+
+}
+
+.wrapper {
+  background-color: #eaf8d5;
+  width: 92%;
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 12px 20px;
+
+}
+
+blockquote {
+  border-left: 4px solid #EFD0CA;
+  border-right: 4px solid #EFD0CA;
+  padding-left: .25em;
+}
+
+.image {
+  text-align: center;
+  margin-top: 2em;
+}
+
+p.caption {
+  font-style: italic;
+  margin-top: 0;
+  font-size: 80%;
+}
+
+p {
+  color: #77787B;
+  font-family: Verdana;
+  margin-top: 0.6em;
+}
+
+h1, h2 {
+  font-family: Arial Black;
+  color: #6D9D31;
+}
+
+h1 {
+  text-align: center
+}
+
+h2 {
+  text-align: center
+}
+
+h3 {
+  margin-bottom: 0.2em;
+  color: #6D9D31;
+}
+
+h4 {
+  color: #6D9D31;
+  margin-bottom: 0.2em;
+}
+
+a {
+  color: #000000;
+  font-family: Verdana;
+}
+
+ul {
+  margin-top: 0.25em;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+header {
+  background-image: url(../images/midtermheader.png);
+  border-bottom: .2em solid #77787B;
+}
+
+footer.wrapper {
+  text-align: center;
+  border-top: .2em solid #77787B;
+  font-size: 75%;
+  padding-top: 2em;
+  padding-bottom: 1.5em;
+  line-height: 1.4em;
+}
+@media screen and (max-width: 800px) {
+  div.image {
+    display: none;
+  }
